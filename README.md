@@ -37,8 +37,8 @@ sintéticas con nulos e inconsistencias reales, ideal para practicar limpieza de
 
 ## Capturas
 
-![Resumen Ejecutivo](./outputs/screenshots/pagina1_resumen.png)
-![Detalle de Productos](./outputs/screenshots/pagina2_detalle.png)
+![Resumen Ejecutivo](./retail_dashboard/pagina1_resumen.png)
+![Detalle de Productos](./retail_dashboard/pagina2_detalle.png)
 
 ## Hallazgos clave
 - [Completa con 2-3 insights reales que veas en tu dashboard, ej. categoría con 
